@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav{
+  height: 70px;
+  background-color: rgb(231, 231, 185);
+}
+.navbar-brand img {
+  margin-left: 50px; 
+  /* max-height: 45px;  */
+}
+.header {
+  height: 100vh;
+  background-color: #a9d0fa;
+  /* background: url("image/download.jpeg") no-repeat center center fixed;
+  background-attachment:fixed;
+  background-size: cover; */
+}
+.recruiter-logo {
+  width: 80px;
+}
+
+.recruiter-logo:hover {
+  filter: grayscale(0%);
+}
+.contact {
+  background: #002147;
+}
+.footer {
+  background: #111;
+}
+.gallery-img {
+  cursor: pointer;
+}
+.gallery-img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+}
+
