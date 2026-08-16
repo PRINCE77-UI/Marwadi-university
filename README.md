@@ -149,24 +149,6 @@ For a better development experience, open the project in **Visual Studio Code** 
 
 ---
 
-## 🔮 Future Improvements
-
-Possible improvements for future versions:
-
-* 🔐 Functional student authentication
-* 🗄️ Backend and database integration
-* 📝 Online admission form
-* 📚 Student dashboard
-* 📅 Events and academic calendar
-* 📢 Dynamic announcements
-* 📱 Improved mobile optimization
-* 🔍 Advanced website search
-* 📧 Functional contact form
-* 🌙 Dark mode
-* ♿ Improved accessibility
-
----
-
 ## 🎯 Learning Objectives
 
 This project helped demonstrate practical implementation of:
