@@ -51,42 +51,6 @@ The navigation provides quick access to About, Courses, Vision & Mission, Galler
 Bootstrap's CSS and JavaScript files are integrated into the project along with Remix Icon and a custom stylesheet.
 
 ---
-
-## 📂 Project Structure
-
-```text
-marwadi-university-website/
-│
-├── index.html
-├── style.css
-│
-├── css/
-│   └── bootstrap.min.css
-│
-├── js/
-│   └── bootstrap.bundle.js
-│
-└── image/
-    ├── logo.svg
-    ├── download.jpeg
-    ├── mu-fest.jpg
-    ├── cultural-festival.jpg
-    ├── campus-beat.png
-    ├── Flipkart.png
-    ├── Adani.png
-    ├── google.png
-    ├── Nestle.png
-    ├── TCS.png
-    ├── Reliance-Industries.png
-    ├── HDFC-Bank.png
-    ├── techm.png
-    └── ...
-```
-
-> **Note:** Keep the `css`, `js`, and `image` folder paths unchanged because the HTML file references these resources using relative paths.
-
----
-
 ## 📄 Website Sections
 
 ### 🏠 Home
@@ -160,7 +124,7 @@ The contact section contains:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/marwadi-university-website.git
+git clone https://github.com/PRINCE77-UI/marwadi-university-website.git
 ```
 
 ### 2. Open the project
