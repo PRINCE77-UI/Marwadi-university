@@ -188,7 +188,7 @@ This project helped demonstrate practical implementation of:
 
 **Prince Kumar**
 
-B.Tech Computer Science & Engineering
+B.Tech Computer Engineering
 
 ---
 
