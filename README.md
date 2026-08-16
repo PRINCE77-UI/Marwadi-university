@@ -124,13 +124,13 @@ The contact section contains:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/PRINCE77-UI/marwadi-university-website.git
+git clone https://github.com/PRINCE77-UI/marwadi-university.git
 ```
 
 ### 2. Open the project
 
 ```bash
-cd marwadi-university-website
+cd marwadi-university
 ```
 
 ### 3. Run the website
